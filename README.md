@@ -1,4 +1,4 @@
-# <img align="left" alt="Analytix" width="100px" src="https://besave.tk/uploads/main/828ab3426128f8803ac7a64dc2f680d8.png" draggable="false" /> ([Click to try 🚀](https://analytix.tk/)) (v3.6.1)
+# <img align="left" alt="Analytix" width="130px" src="https://besave.tk/uploads/main/828ab3426128f8803ac7a64dc2f680d8.png" draggable="false" /> ([Click to try 🚀](https://analytix.tk/)) (v3.6.1)
 
 BeSave - Create your QR Codes with BeSave 💾, store them securely in the cloud ☁️ and get analytics! 📱
 
