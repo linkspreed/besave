@@ -1,10 +1,10 @@
-# <img align="left" alt="Analytix" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/)) (v3.6.1)
+# <img align="left" alt="Analytix" width="40px" src="https://besave.tk/uploads/main/828ab3426128f8803ac7a64dc2f680d8.png" draggable="false" /> ([Click to try 🚀](https://analytix.tk/)) (v3.6.1)
 
 BeSave - Create your QR Codes with BeSave 💾, store them securely in the cloud ☁️ and get analytics! 📱
 
 
 
-## **[Changelog 💙](https://github.com/linkspreed/besave/blob/main/changelog.md)** **Check out the full BeSave changelog**
+## **[Changelog 💾](https://github.com/linkspreed/besave/blob/main/changelog.md)** **Check out the full BeSave changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/besave/blob/main/Special_Works.md)** **Take a look at what changes we are doing to BeSave besides development**
 
 
