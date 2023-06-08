@@ -1,3 +1,6 @@
+### 08.06.2023 (announcement Besave)
+- 🚀🛡️ Exciting news! We just integrated our Besave platform with Cloudflare network to provide faster loading time and enhanced security 🔒🌐. Have you tried it yet? Share your thoughts with us! #Besave #cloudflare #security #fasterloading ⚡️💻
+
 ### 22.03.2023 (announcement BeSave)
 - Just rewrote some files on BeSave 📝🖥️ to keep more doors open for future monetization 💰💸 opportunities. #techupdates #stayahead 🔮
 
