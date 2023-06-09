@@ -1,3 +1,6 @@
+### 09.06.2023 (announcement Besave)
+- 🚨Exciting news, folks!🚨We've added Besave to our subdomain system! 🔝🎉 Now, https://besave.tk will redirect you to https://besave.linkspreed.com.💻🔗 But don't worry, you can keep using the platform with all of your existing data as usual. 👍 So, are you ready to explore?🤔 #Besave #Linkspreed #Subdomain #TechUpgrade 💻😎
+
 ### 08.06.2023 (announcement Besave)
 - 🚀🛡️ Exciting news! We just integrated our Besave platform with Cloudflare network to provide faster loading time and enhanced security 🔒🌐. Have you tried it yet? Share your thoughts with us! #Besave #cloudflare #security #fasterloading ⚡️💻
 
